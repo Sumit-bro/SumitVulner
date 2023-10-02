@@ -1,4 +1,3 @@
-@@ -0,0 +1,187 @@
 import os, sys, time, socket, argparse, zipfile, requests
 from os import popen, system
 import requests
