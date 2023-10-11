@@ -55,7 +55,7 @@ banner = f"""
 {blue}   
 {red} 
 {blue}A Sumit Vulnerability Scanner Tool For Termux
-{red}  Made by Sumit Telegram:-  @dark_world_69
+{red}  Made by Sumit Telegram:-  @SUMIT_DARK
 {yellow}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
  """
 
