@@ -42,7 +42,13 @@ def line_print(n):
 
 #Logo banner
 banner = f"""
-{red} SumitVulner
+{red}  ____     ___  ____  
+      |  T  ||  T  T| T    |    \   /  _]|    \ 
+      |  |  ||  |  || |    |  _  Y /  [_ |  D  )
+      |  |  ||  |  || l___ |  |  |Y    _]|    / 
+      l  :  !|  :  ||     T|  |  ||   [_ |    \ 
+       \   / l     ||     ||  |  ||     T|  .  Y
+        \_/   \__,_jl_____jl__j__jl_____jl__j\_j
                                                                                  
 {cyan}    
 {yellow}  
